@@ -34,7 +34,7 @@ tombolKiri.addEventListener("click", mundur);
 
 // _________________________________________________________________________________
 function pindahGaleri() {
-  window.location.href = "http://127.0.0.1:5500/pages/galeri.html";
+  window.location.href = "https://www.facebook.com/";
 }
 
 var tombol = document.querySelectorAll(".galeri-tombol");
