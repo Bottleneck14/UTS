@@ -337,6 +337,10 @@
   display: flex;
   gap: 30px;
 }
+.f-kanan-isi ul {
+  margin: 0;
+  padding: 0;
+}
 .f-kanan-isi ul li {
   display: block;
 }
@@ -371,6 +375,10 @@
   }
   .medsos1 {
     display: block;
+  }
+  .f-kanan-isi {
+    background-color: aqua;
+    gap: 10px;
   }
 }
 /* mobile */
