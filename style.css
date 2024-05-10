@@ -378,6 +378,7 @@
   }
   .f-kanan-isi {
     gap: 10px;
+    flex-wrap: wrap;
   }
 }
 /* mobile */
