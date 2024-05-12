@@ -534,3 +534,12 @@ iframe {
   transform: scale(1.1);
   transition: 0.4s;
 }
+.wip img {
+  width: 10vw;
+}
+
+@media only screen and (max-width: 480px) {
+  .wip img {
+    width: 30vw;
+  }
+}
