@@ -540,6 +540,6 @@ iframe {
 
 @media only screen and (max-width: 480px) {
   .wip img {
-    width: 30vw;
+    width: 30%;
   }
 }
