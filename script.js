@@ -34,7 +34,7 @@ tombolKiri.addEventListener("click", mundur);
 
 // _________________________________________________________________________________
 function pindahGaleri() {
-  window.location.href = "https://www.facebook.com/";
+  window.location.href = "https://bottleneck14.github.io/UTS/galeri.html";
 }
 
 var tombol = document.querySelectorAll(".galeri-tombol");
